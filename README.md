@@ -1,0 +1,2 @@
+# solipsism-project
+crud go
